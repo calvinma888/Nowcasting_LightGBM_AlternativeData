@@ -1,4 +1,4 @@
-# Nowcasting_LightGBM_AlternativeData
+# Nowcasting with LightGBM Using Alternative Data
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
